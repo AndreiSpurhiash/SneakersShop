@@ -1,0 +1,17 @@
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\bin\Debug\net7.0\SneakersShop.Infrastructure.deps.json
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\bin\Debug\net7.0\SneakersShop.Infrastructure.dll
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\bin\Debug\net7.0\SneakersShop.Infrastructure.pdb
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\bin\Debug\net7.0\SneakersShop.ApplicationCore.dll
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\bin\Debug\net7.0\SneakersShop.ApplicationCore.pdb
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\obj\Debug\net7.0\SneakersShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\obj\Debug\net7.0\SneakersShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\obj\Debug\net7.0\SneakersShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\obj\Debug\net7.0\SneakersShop.Infrastructure.AssemblyInfo.cs
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\obj\Debug\net7.0\SneakersShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\obj\Debug\net7.0\SneakersShop.Infrastructure.csproj.CopyComplete
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\obj\Debug\net7.0\SneakersShop.Infrastructure.dll
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\obj\Debug\net7.0\refint\SneakersShop.Infrastructure.dll
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\obj\Debug\net7.0\SneakersShop.Infrastructure.pdb
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\obj\Debug\net7.0\ref\SneakersShop.Infrastructure.dll
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\bin\Debug\net7.0\SneakersShop.Infrastructure.runtimeconfig.json
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.Infrastructure\obj\Debug\net7.0\SneakersShop.Infrastructure.genruntimeconfig.cache

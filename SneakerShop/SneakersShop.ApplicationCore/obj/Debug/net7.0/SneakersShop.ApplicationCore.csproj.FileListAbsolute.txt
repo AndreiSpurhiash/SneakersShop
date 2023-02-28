@@ -1,0 +1,12 @@
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.ApplicationCore\bin\Debug\net7.0\SneakersShop.ApplicationCore.deps.json
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.ApplicationCore\bin\Debug\net7.0\SneakersShop.ApplicationCore.dll
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.ApplicationCore\bin\Debug\net7.0\SneakersShop.ApplicationCore.pdb
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.ApplicationCore\obj\Debug\net7.0\SneakersShop.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.ApplicationCore\obj\Debug\net7.0\SneakersShop.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.ApplicationCore\obj\Debug\net7.0\SneakersShop.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.ApplicationCore\obj\Debug\net7.0\SneakersShop.ApplicationCore.AssemblyInfo.cs
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.ApplicationCore\obj\Debug\net7.0\SneakersShop.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.ApplicationCore\obj\Debug\net7.0\SneakersShop.ApplicationCore.dll
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.ApplicationCore\obj\Debug\net7.0\refint\SneakersShop.ApplicationCore.dll
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.ApplicationCore\obj\Debug\net7.0\SneakersShop.ApplicationCore.pdb
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakersShop.ApplicationCore\obj\Debug\net7.0\ref\SneakersShop.ApplicationCore.dll
