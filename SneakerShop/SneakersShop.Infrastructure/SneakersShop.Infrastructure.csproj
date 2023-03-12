@@ -23,4 +23,8 @@
     <ProjectReference Include="..\SneakersShop.ApplicationCore\SneakersShop.ApplicationCore.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
 </Project>
