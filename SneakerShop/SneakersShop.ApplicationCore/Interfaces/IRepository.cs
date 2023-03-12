@@ -15,12 +15,13 @@ namespace SneakersShop.ApplicationCore.Interfaces
             Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null,
             Func<IQueryable<T>, IIncludableQueryable<T, object>>? include = null,
             bool isTracking = false);
+        void Add(T entity);
         Task<T> AddAsync(T entity);
-        Task AddRangeAsync(IEnumerable<T> entities);
-        Task UpdateAsync(T entity);
-        Task UpdateRangeAsync(IEnumerable<T> entities);
-        Task RemoveAsync(T entity);
-        Task RemoveRangeAsync(IEnumerable<T> entities);
+        void AddRange(IEnumerable<T> entities);
+        void Update(T entity);
+        void UpdateRange(IEnumerable<T> entities);
+        void Remove(T entity);
+        void RemoveRange(IEnumerable<T> entities);
         Task SaveChangesAsync();
 
     }

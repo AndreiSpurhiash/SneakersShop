@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SneakersShop.ApplicationCore.Interfaces
 {
-    internal interface IUnitOfWork
+    public interface IUnitOfWork
     {
         public IRepository<Category> Category { get; }
         public IRepository<Brand> Brand { get; }
