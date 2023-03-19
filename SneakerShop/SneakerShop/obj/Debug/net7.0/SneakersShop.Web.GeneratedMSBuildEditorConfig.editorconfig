@@ -12,16 +12,24 @@ build_property.RootNamespace = SneakersShop.Web
 build_property.ProjectDir = C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakerShop\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\SneakerShop
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/andre/Source/Repos/AndreiSpurhiash/SneakersShop/SneakerShop/SneakerShop/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/andre/Source/Repos/AndreiSpurhiash/SneakersShop/SneakerShop/SneakerShop/Areas/Admin/Views/Color/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/andre/Source/Repos/AndreiSpurhiash/SneakersShop/SneakerShop/SneakerShop/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/andre/Source/Repos/AndreiSpurhiash/SneakersShop/SneakerShop/SneakerShop/Areas/Admin/Views/Color/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/Source/Repos/AndreiSpurhiash/SneakersShop/SneakerShop/SneakerShop/Areas/Customer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/Source/Repos/AndreiSpurhiash/SneakersShop/SneakerShop/SneakerShop/Areas/Customer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/andre/Source/Repos/AndreiSpurhiash/SneakersShop/SneakerShop/SneakerShop/Views/Shared/Error.cshtml]

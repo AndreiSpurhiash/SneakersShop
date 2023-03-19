@@ -1,0 +1,8 @@
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\Web\obj\Debug\net7.0\Web.csproj.AssemblyReference.cache
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\Web\obj\Debug\net7.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\Web\obj\Debug\net7.0\Web.AssemblyInfoInputs.cache
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\Web\obj\Debug\net7.0\Web.AssemblyInfo.cs
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\Web\obj\Debug\net7.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\Web\obj\Debug\net7.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\Web\obj\Debug\net7.0\Web.RazorAssemblyInfo.cache
+C:\Users\andre\Source\Repos\AndreiSpurhiash\SneakersShop\SneakerShop\Web\obj\Debug\net7.0\Web.RazorAssemblyInfo.cs

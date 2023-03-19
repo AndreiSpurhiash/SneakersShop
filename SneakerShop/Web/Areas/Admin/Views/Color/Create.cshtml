@@ -1,0 +1,29 @@
+﻿@using SneakersShop.Web.Areas.Admin.Models;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model ColorViewModel
+
+<form method="post" asp-controller="Color" asp-action="Create">
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-black-50">Create</h2>
+		</div>
+		<div class="mb-3">
+			<label asp-for="@Model.Name"></label>
+			<input asp-for="@Model.Name" class="form-control">
+			<span asp-validation-for="@Model.Name" class="text-danger"></span>
+		</div>
+		<button type="submit" class="badge bg-success" style="width:100px">
+			<i class="bi bi-check-lg"></i>
+			Create
+		</button>
+		<a asp-controller="Color" asp-action="index" class="badge bg-success" style="width:100px">
+			<span class="bi bi-reply"> Back</span>
+		</a>
+	</div>
+</form>
+
+@section Scripts{
+	@{
+		<partial name="_ValidationScriptsPartial" />
+	}
+}
