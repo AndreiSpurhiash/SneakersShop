@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SneakerShop/.vs/SneakerShop/DesignTimeBuild/.dtbcache.v2
+/SneakerShop/Web/obj/Debug/net7.0/SneakersShop.Web.csproj.AssemblyReference.cache
+/SneakerShop/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/SneakerShop/Website/obj/Debug/net7.0/Website.csproj.AssemblyReference.cache
+/SneakerShop/.vs/SneakerShop/FileContentIndex/aa5611a1-96eb-40d6-bc1c-3c65f960b957.vsidx
+/SneakerShop/.vs/SneakerShop/FileContentIndex/9dd2d616-4eda-43ae-8141-db61e1e1eb6a.vsidx
+*.vsidx
+/.vs/slnx.sqlite
+/SneakerShop/.vs/SneakerShop/FileContentIndex/00a75a6d-2aff-4a98-9e5a-4da05ac5d86b.vsidx
