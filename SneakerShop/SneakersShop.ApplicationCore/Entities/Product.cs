@@ -24,19 +24,19 @@ namespace SneakersShop.ApplicationCore.Entities
         [Range(1, 100, ErrorMessage = "The length of the Size should be from 1 to 100 characters")]
         public double? Size { get; set; }
         [Required]
-        public Guid BrandId { get; set; }
+        public int BrandId { get; set; }
         [ForeignKey("BrandId")] public Brand? Brand { get; set; }
         [Required]
-        public Guid CategoryId { get; set; }
+        public int CategoryId { get; set; }
         [ForeignKey("CategoryId")] public Category? Category { get; set; }
         [Required]
-        public Guid GenderId { get; set; }
+        public int GenderId { get; set; }
         [ForeignKey("GenderId")] public Gender? Gender { get; set; }
         [Required]
-        public Guid ColorId { get; set; }
+        public int ColorId { get; set; }
         [ForeignKey("ColorId")] public Color? Color { get; set; }
         [Required]
-        public Guid MaterialId { get; set; }
+        public int MaterialId { get; set; }
         [ForeignKey("MaterialId")] public Material? Material { get; set; }
         public Product()
         {

@@ -1,0 +1,21 @@
+[19:36:02 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("25"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Name]
+FROM [Colors] AS [c]
+ORDER BY [c].[Name]"
+[19:36:03 Microsoft.EntityFrameworkCore.Query [Error] An exception occurred while iterating over the results of a query for context type '"SneakersShop.Infrastructure.Data.CatalogContext"'."
+""System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Guid'.
+   at Microsoft.Data.SqlClient.SqlBuffer.get_Guid()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetGuid(Int32 i)
+   at lambda_method15(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()"
+System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Guid'.
+   at Microsoft.Data.SqlClient.SqlBuffer.get_Guid()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetGuid(Int32 i)
+   at lambda_method15(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+[19:36:03 Website.Areas.Admin.Controllers.ColorController [Error] Unable to cast object of type 'System.Int32' to type 'System.Guid'.
+[19:58:31 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("45"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Name]
+FROM [Colors] AS [c]
+ORDER BY [c].[Name]"
+[19:58:31 Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware [Warning] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.

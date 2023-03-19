@@ -2,9 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\SneakerShop",
+    "\\SneakerShop\\SneakerShop",
+    "\\SneakerShop\\SneakerShop\\Configuration",
     "\\SneakerShop\\SneakersShop.ApplicationCore",
-    "\\SneakerShop\\SneakersShop.ApplicationCore\\Entities"
+    "\\SneakerShop\\SneakersShop.ApplicationCore\\Entities",
+    "\\SneakerShop\\SneakersShop.ApplicationCore\\Interfaces",
+    "\\SneakerShop\\SneakersShop.ApplicationCore\\obj",
+    "\\SneakerShop\\SneakersShop.Infrastructure"
   ],
-  "SelectedNode": "\\SneakerShop\\SneakersShop.ApplicationCore\\Entities\\Product.cs",
+  "SelectedNode": "\\SneakerShop\\SneakersShop.Infrastructure\\SneakersShop.Infrastructure.csproj",
   "PreviewInSolutionExplorer": false
 }
